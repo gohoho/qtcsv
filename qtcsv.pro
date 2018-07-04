@@ -4,6 +4,7 @@ TEMPLATE = lib
 VERSION = 1.5.0
 win32:TARGET_EXT = .dll
 
+CONFIG += c++11
 # Uncomment this setting if you want to build static library
 #CONFIG += staticlib
 
